@@ -37,6 +37,8 @@
     {"id":{"name":"Obj_inimigo","path":"objects/Obj_inimigo/Obj_inimigo.yy",},},
     {"id":{"name":"Object_player","path":"objects/Object_player/Object_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Spr_cenario","path":"sprites/Spr_cenario/Spr_cenario.yy",},},
+    {"id":{"name":"Spr_coletaveis","path":"sprites/Spr_coletaveis/Spr_coletaveis.yy",},},
     {"id":{"name":"Spr_fundo","path":"sprites/Spr_fundo/Spr_fundo.yy",},},
     {"id":{"name":"Spr_inimigo","path":"sprites/Spr_inimigo/Spr_inimigo.yy",},},
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},},
