@@ -58,3 +58,13 @@ if keyboard_check(vk_left) or  keyboard_check(ord("A")){
 if keyboard_check(vk_right) or  keyboard_check(ord("D")){
 	x += velocidade
 }
+
+/* 
+bom,agora que criamos os pontos,eu quero que toda vez que eu coletar todos os colataveis da sala,mude
+para a procima sala.
+Aqui,podemos fazer dois caminhos,o primiro é sempre ter um numero fixo de coletaveis na tela,por exemplo 5
+ou seja, deste jeito, obrigatoriamente, teriamos que ficar limitados a 5 coletaveis no jogo,e não poderiamos
+nem colocar a mais ou a menos, por isso, vamos usar uma forma que ficar limitado a 5 coletaveis ,na sala
+e quando a quantidade de pontos ser igual a quantidade de coletaveis na tela, iremos para a proxima sala
+o metodo que iremos usar,é criar uma variavel global, e toda vez que eu adicionar mais uma instancia do objColetavel
+aumente em 1 a quantidade total
