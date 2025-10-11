@@ -33,5 +33,6 @@ Voce chama esta função quando voce deseja destruir uma instancia,normalmente d
  esta função irá reiniciar a sala atual, como se tivesse acabada de ser executada -
  (ou seja, como ela foi feita normalmente)
 */
+global.quantidadeColetaveis = 0
 instance_destroy()
 room_restart()

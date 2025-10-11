@@ -1,3 +1,4 @@
+
 /*
 assim como criamos os pontos no objplayer aqui poderiamos tambem criar a quantidade de objcoletavel direto
 o problema é que ,o evento de create é realixado toda vez que uma nova instancia é criada 
